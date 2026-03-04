@@ -2,8 +2,6 @@
 
 PN Apollo is a Bot for PokeNexus (Pokemon Planet) Online Unity, that can do Grinding, Fishing, Mining, EV Training and Battle Tower grinding.
 
-<img src="https://github.com/rodrigograc4/PPlanet-Apollo/blob/main/image.png" width="50%" />
-
 ## Official Website
 https://pokenexus-bot-apollo.netlify.app/
 
